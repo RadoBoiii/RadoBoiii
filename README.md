@@ -9,7 +9,7 @@
 
 
 
-  🌍 New York, NY | San Francisco, CA | 📫 shinder@usc.edu | LinkedIn | GitHub
+  🌍 New York, NY | San Francisco, CA | 📫 shinder@usc.edu | [LinkedIn](https://www.linkedin.com/in/rishabh-shinde/) 
 
 
 
