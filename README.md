@@ -5,7 +5,7 @@
 👨‍💻 Hey, I'm Rishabh Shinde!
 
   Turning curiosity into impactful AI and full-stack solutions.
-  I'm a Software Engineer and AI enthusiast with a Master’s in Computer Science from USC (GPA 3.84). Passionate about AI, machine learning, and geospatial technologies, I build scalable systems that optimize performance and enhance user experiences. As a freelancer at Sim Studios and a Headstarter resident, I contribute to open-source projects like Puter and Sim Studio, driving innovation in AI and cloud workflows. Let’s shape the future with code!
+  I'm a Software Engineer and AI enthusiast with a Master’s in Computer Science from USC (GPA 3.84). Passionate about AI, machine learning, and geospatial technologies, I build scalable systems that optimize performance and enhance user experiences. As a freelancer at Sim Studios and a Headstarter resident, I contribute to open-source projects like Puter and Sim Studio, driving innovation in AI and cloud workflows. Let’s shape the future with code! i enjoy the startup culture and am looking for opportunities to contribute to more startups
 
 
 
