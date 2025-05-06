@@ -21,10 +21,14 @@
 
 🌟 About Me
 
-🔧 Tech Stack: Python, JavaScript, React, Node.js, TypeScript, AWS, TensorFlow, PyTorch, LiveKit, GeoPandas, Tailwind CSS
+🔧 Tech Stack: Python, JavaScript, React, Node.js, TypeScript, AWS, TensorFlow, PyTorch, LiveKit, GeoPandas, Tailwind CSS  
+
 🌱 Learning: Graph Neural Networks, Spatial Query Optimization, Web3
+
 💡 Fun Fact: I love Manchester United, hahaha
+
 🎯 Goal: Innovate in AI, data science, and open-source to create sustainable, impactful solutions
+
 🙌 Gratitude: Big thanks to Emir Karabeg for mentoring my open-source journey!
 
 
