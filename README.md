@@ -39,40 +39,40 @@
 Freelance Software Engineer | Sim Studios
 Remote | Jan 2025 - Present
 
-Built a dashboard for usage analytics and understand Sim Studios usage patterns.
-Developed tools like Mem0 and S3 bucket integrations into Sim Studio
-Developed a unified image generation block supporting DALL-E and Stable Diffusion, streamlining creative workflows with customizable prompt engineering.
-Collaborated with Emir Karabeg to enhance platform scalability, serving developers globally.
+  Built a dashboard for usage analytics and understand Sim Studios usage patterns.
+  Developed tools like Mem0 and S3 bucket integrations into Sim Studio
+  Developed a unified image generation block supporting DALL-E and Stable Diffusion, streamlining creative workflows with customizable prompt engineering.
+  Collaborated with Emir Karabeg to enhance platform scalability, serving developers globally.
 
 Software Engineering Resident | Headstarter
 Remote | Jan 2025 - Present
 
-Contributed to open-source projects like Puter, developing a context-aware service redirection system for 30K+ users, improving AI resource allocation.
-Built ConversAI during the Headstarter Buildathon, a full-stack AI voice platform reducing customer response times by 40%.
+  Contributed to open-source projects like Puter, developing a context-aware service redirection system for 30K+ users, improving AI resource allocation.
+  Built ConversAI during the Headstarter Buildathon, a full-stack AI voice platform reducing customer response times by 40%.
 
 Software Engineer - Machine Learning | USC Integrated Media Service Center Lab
 Los Angeles, CA | Dec 2024 - Present
 
-Designed UI for wearable tech data analysis tools, serving 1M+ users.
-Developed WaveGNN for real-time audio processing, reducing latency and enhancing sound fidelity.
+  Designed UI for wearable tech data analysis tools, serving 1M+ users.
+  Developed WaveGNN for real-time audio processing, reducing latency and enhancing sound fidelity.
 
 Software Engineer | PTC
 Boston, MA | Jul 2024 - Aug 2024
 
-Deployed Python automation scripts on Azure, cutting CPU usage by 79% and costs by 60-70%.
-Implemented AI-driven analytics for VM usage forecasting, advancing sustainability.
+  Deployed Python automation scripts on Azure, cutting CPU usage by 79% and costs by 60-70%.
+  Implemented AI-driven analytics for VM usage forecasting, advancing sustainability.
 
 Software Engineer - Data Science | USC Financial Aid Office
 Los Angeles, CA | May 2023 - Oct 2024
 
-Built Tableau/Power BI dashboards, streamlining financial aid processes.
-Optimized workflows through data analysis, boosting application processing efficiency.
+  Built Tableau/Power BI dashboards, streamlining financial aid processes.
+  Optimized workflows through data analysis, boosting application processing efficiency.
 
 Associate Software Engineer | Deloitte
 Pune, India | Jul 2022 - Dec 2022
 
-Led full-stack development for Wells Fargo’s QA Portal using React, Java, and Spring Boot.
-Developed NLP solutions for Pfizer’s IntelliDoc, enhancing data extraction accuracy.
+  Led full-stack development for Wells Fargo’s QA Portal using React, Java, and Spring Boot.
+  Developed NLP solutions for Pfizer’s IntelliDoc, enhancing data extraction accuracy.
 
 
 🌟 Featured Projects
